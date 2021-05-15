@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 sanduni is here
-=======
 sasindu is here
->>>>>>> origin/sasindu
