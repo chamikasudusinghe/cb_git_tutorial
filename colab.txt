@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 isuru is there.
+=======
+Duvishka is here
+>>>>>>> origin/duvi99
