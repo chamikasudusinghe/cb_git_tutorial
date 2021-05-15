@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ravikula is here
+=======
+This is RG file
+>>>>>>> origin/Ranuri
