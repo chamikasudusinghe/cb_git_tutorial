@@ -1,2 +1,12 @@
 git tutorial Day 01
 session 1
+git pull
+git pull --all
+git push
+git status
+git add
+git commit
+git commit -a
+git commit -am
+git checkout -b
+git checkout 
