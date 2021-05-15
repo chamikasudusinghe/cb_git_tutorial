@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 This is the new dev file
-=======
 this is dev file
->>>>>>> origin/ravikula
