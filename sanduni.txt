@@ -1,1 +1,2 @@
-My name is sanduni
+My name is sanduni.
+My age is 21.
