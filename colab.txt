@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 This is RG file
 Ravikula is here
+=======
+Ravikula is here
+This is RG file
+>>>>>>> origin/ravikula
